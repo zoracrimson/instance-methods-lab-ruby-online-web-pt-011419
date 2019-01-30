@@ -9,4 +9,5 @@ def sit
   puts "The dog is sitting."
 end 
 
-Dog.bark 
+Dog.bark
+Dog.sit
